@@ -4,6 +4,12 @@ This project was created because there is no library handling the keyring format
 a wrapper around the GnuPG command and is therefore compatible with any pinentry version in order to use smartcards or yubikeys.
 
 
+# Installation
+
+```sh
+go get github.com/clems4ever/go-gnupg
+```
+
 # License
 
 The source code for the site is licensed under the Apache 2.0 license, which you can find in the [LICENSE](./LICENSE) file.
